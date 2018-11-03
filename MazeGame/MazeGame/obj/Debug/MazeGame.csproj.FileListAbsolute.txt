@@ -1,0 +1,10 @@
+D:\vs projecs\MazeGame\MazeGame\bin\Debug\MazeGame.exe.config
+D:\vs projecs\MazeGame\MazeGame\bin\Debug\MazeGame.exe
+D:\vs projecs\MazeGame\MazeGame\bin\Debug\MazeGame.pdb
+D:\vs projecs\MazeGame\MazeGame\obj\Debug\MazeGame.csprojAssemblyReference.cache
+D:\vs projecs\MazeGame\MazeGame\obj\Debug\MazeGame.Form1.resources
+D:\vs projecs\MazeGame\MazeGame\obj\Debug\MazeGame.Properties.Resources.resources
+D:\vs projecs\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.GenerateResource.cache
+D:\vs projecs\MazeGame\MazeGame\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+D:\vs projecs\MazeGame\MazeGame\obj\Debug\MazeGame.exe
+D:\vs projecs\MazeGame\MazeGame\obj\Debug\MazeGame.pdb
