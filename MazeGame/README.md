@@ -2,10 +2,10 @@
 Using c#(.NET Framework) to build.
 
 Screenshot:
-![alt text](https://github.com/OrangeYi/MyScreenSaver/raw/master/screenshot.png "INTERFACE")
+![alt text](https://github.com/OrangeYi/c-sharp_small_project/raw/master/MazeGame/screen.png "INTERFACE")
 
 EXE download link:
-[Click me!](https://github.com/OrangeYi/MyScreenSaver/raw/master/MyScreenSaver/bin/Debug/MyScreenSaver.exe)
+[Click me!](https://github.com/OrangeYi/c-sharp_small_project/raw/master/MazeGame/MazeGame/bin/Debug/MazeGame.exe)
 
 Tech Point:
 1. Lay out a form using a Panel container
